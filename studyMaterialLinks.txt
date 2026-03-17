@@ -1,0 +1,42 @@
+https://sqlbolt.com/https://sqlbolt.com/
+https://www.startdataengineering.com/post/6-concepts-to-clearly-understand-window-functions/
+https://www.atlassian.com/data/sql/how-indexing-works
+https://leetcode.com/studyplan/top-sql-50/
+
+PYTHON
+https://docs.python.org/3/tutorial/datastructures.html
+https://docs.python.org/3/tutorial/classes.html
+https://leetcode.com/studyplan/top-interview-150/
+
+Data Modeling:
+https://www.holistics.io/books/setup-analytics/kimball-s-dimensional-data-modeling/
+https://en.wikipedia.org/wiki/Slowly_changing_dimension
+https://www.databricks.com/blog/what-is-parquet
+https://cloud.google.com/blog/products/bigquery/bigquery-under-the-hood
+https://dataschool.com/data-modeling-101/row-vs-column-oriented-databases/
+https://data-flair.training/blogs/apache-hive-partitions/
+https://cwiki.apache.org/confluence/display/Hive/Managed+vs.+External+Tables
+
+Data Pipelines
+https://www.startdataengineering.com/post/how-to-backfill-sql-query-using-apache-airflow/#what-is-backfilling-%22
+https://www.startdataengineering.com/post/elt-vs-etl/
+https://www.getdbt.com/blog/what--exactly--is-dbt-
+https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/index.html
+https://airbyte.com/data-engineering-resources/idempotency-in-data-pipelines
+https://maximebeauchemin.medium.com/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a
+
+System Design
+https://www.startdataengineering.com/post/how-to-optimize-your-spark-jobs/
+https://developer.confluent.io/courses/kafka-streams/get-started/
+https://developer.confluent.io/courses/apache-flink/intro/
+https://www.startdataengineering.com/post/data-engineering-project-for-beginners-batch-edition/
+https://www.startdataengineering.com/post/data-engineering-project-for-beginners-stream-edition/
+
+Business Questions
+https://www.themuse.com/advice/star-interview-method
+
+Cloud
+https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/
+https://www.reddit.com/r/AWSCertifications/comments/1d1tvnk/50hrs_free_aws_solutions_architect_associate_c03/
+https://learn.microsoft.com/en-us/training/topics/azure-data-and-ai
+https://www.skills.google/paths/16
